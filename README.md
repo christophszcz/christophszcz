@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">JS focused Software Dev currently in Ottawa</h3>
 
-- :briefcase: Working at **Harris Computer- NorthStar Utilities Solutions**
+- :briefcase: Working at **Harris Computer - NorthStar Utilities Solutions**
 
 - 🌱 I’m currently learning **Java Spring**
 
