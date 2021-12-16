@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Spring**
 
-- 💬 Ask me about **Angular & Rails**
+- 💬 Ask me about **Angular & Node.js**
 
 - 📫 How to reach me **info@cjszczechowicz.com**
 
