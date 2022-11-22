@@ -3,9 +3,9 @@
 
 - :briefcase: Working at **Harris Computer - NorthStar Utilities Solutions**
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Java** and **Spring**
 
-- 💬 Ask me about **Angular & Node.js**
+- 💬 Ask me about **Angular** and **Node.js**
 
 - 📫 How to reach me **info@cjszczechowicz.com**
 
