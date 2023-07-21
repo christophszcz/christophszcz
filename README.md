@@ -3,7 +3,7 @@
 
 - :briefcase: Working at **Harris Computer Systems - NorthStar Utilities Solutions**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **AWS**
 
 - 💬 Ask me about **Angular**, **Node.js** , and **Ruby on Rails**
 
