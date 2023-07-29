@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">JS focused Software Dev currently in Ottawa</h3>
+<h3 align="center">JS focused Software Developer currently in Ottawa, Canada</h3>
 
 - :briefcase: Working at **Harris Computer Systems - NorthStar Utilities Solutions**
 
