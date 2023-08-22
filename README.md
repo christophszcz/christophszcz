@@ -3,9 +3,9 @@
 
 - :briefcase: Working at **Harris Computer Systems - NorthStar Utilities Solutions**
 
-- 🌱 I’m currently learning **Python** and **AWS**
+- 🌱 I’m currently learning **Python** & **AWS**
 
-- 💬 Ask me about **Angular**, **Node.js** , and **Ruby on Rails**
+- 💬 Ask me about **Angular**, **Node.js**, **Express.js**, & **Ruby on Rails**
 
 - 📫 How to reach me **info@cjszczechowicz.com**
 
