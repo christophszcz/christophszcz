@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">JS focused Software Developer currently in Ottawa, Canada</h3>
+<h1 align="center">I'm Chris</h1>
+<h3 align="center">JS focused Software Developer currently in Canada</h3>
 
 - :briefcase: Working at **Harris Computer Systems - NorthStar Utilities Solutions**
 
-- 🌱 I’m currently learning **Python** & **AWS**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Angular**, **Node.js**, **Express.js**, & **Ruby on Rails**
+- 💬 Ask me about **Angular**, **Node.js**, **Express.js**, **AWS** & **Ruby on Rails**
 
 - 📫 How to reach me **info@cjszczechowicz.com**
 
