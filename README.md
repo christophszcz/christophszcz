@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **Angular**, **Node.js**, **Express.js**, **AWS** & **Ruby on Rails**
 
-- 📫 How to reach me **info@cjszczechowicz.com**
+- 📫 Reach me at **info@cjszczechowicz.com** or [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christophszczechowicz/)
+
 
 <p align="center">
 <a href="https://linkedin.com/in/christophszczechowicz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christophszczechowicz" height="30" width="30" /></a>
