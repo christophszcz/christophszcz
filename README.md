@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Angular**, **Node.js**, **Express.js**, **AWS** & **Ruby on Rails**
 
-- 📫 Reach me at **info@cjszczechowicz.com** 
+- 📫 Reach me at **info@cjszczechowicz.com**
+
+[![](https://raw.githubusercontent.com/christophszcz/christophszcz/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="center">
 <a href="https://linkedin.com/in/christophszczechowicz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christophszczechowicz" height="30" width="30" /></a>
