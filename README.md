@@ -1,4 +1,4 @@
-<h1 align="center">I'm Chris</h1>
+<h1 align="center">I'm Chris Szczechowicz</h1>
 <h3 align="center">A Jiu-Jitsu loving Software Developer currently in Canada</h3>
 
 - :briefcase: Working at **Harris Computer Systems - NorthStar Utilities Solutions**
