@@ -1,5 +1,8 @@
 <h1 align="center">I'm Chris Szczechowicz</h1>
-<h3 align="center">A Jiu-Jitsu loving Software Developer currently in Canada</h3>
+<h3 align="center">A Jiu-Jitsu 
+  # [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/08_security-belt-brown.svg" width="40" />](#) 
+  loving Software Developer currently in Canada
+</h3>
 
 - :briefcase: Working at **Harris Computer Systems - NorthStar Utilities Solutions**
 
