@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python** & **Java**
 
-- 💬 Ask me about **JavaScript**, **Angular**, **Node.js**, **Express.js**, **AWS** & **Ruby on Rails**
+- 💬 Ask me about **JavaScript**, **TypeScript**, **Angular**, **Node.js**, **Express.js**, **AWS** & **Ruby on Rails**
 
 - 📫 Reach me at **info@cjszczechowicz.com**
 
