@@ -1,14 +1,13 @@
 <h1 align="center">I'm Chris Szczechowicz</h1>
-<h3 align="center">A Jiu-Jitsu 
-  <img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/08_security-belt-brown.svg" width="40" /> 
-  Software Dev currently in Canada
+<h3 align="center">
+  A Jiu-Jitsu aficionado & Software Dev currently in Canada
 </h3>
 
 - :briefcase: Working at **Harris Computer Systems - NorthStar Utilities Solutions**
 
 - 🌱 I’m currently learning **Python** & **Java**
 
-- 💬 Ask me about **JavaScript**, **TypeScript**, **Angular**, **Node.js**, **Express.js**, **AWS** & **Ruby on Rails**
+- 💬 Ask me about **TypeScript**, **Angular**, **Node.js**, **Express.js**, **AWS** & **Ruby on Rails**
 
 - 📫 Reach me at **info@cjszczechowicz.com**
 
