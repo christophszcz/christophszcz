@@ -1,6 +1,6 @@
 <h1 align="center">I'm Chris Szczechowicz</h1>
 <h3 align="center">
-  A Jiu-Jitsu aficionado & Software Dev currently in Canada
+  A Jiu-Jitsu aficionado & Software Dev
 </h3>
 
 - :briefcase: Working at **Harris Computer Systems - NorthStar Utilities Solutions**
