@@ -3,7 +3,7 @@
   A Jiu-Jitsu aficionado & Software Dev
 </h3>
 
-- :briefcase: Working at **Harris Computer Systems - NorthStar Utilities Solutions**
+- :briefcase: Working at **Harris Computer Systems**
 
 - 🌱 I’m currently learning **Python** & **Java**
 
